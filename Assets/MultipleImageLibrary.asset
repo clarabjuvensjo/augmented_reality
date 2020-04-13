@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MultipleImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4835667596828456339
+  m_GuidHigh: 12973684814653000868
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4946438783793921302
+      m_GuidHigh: 13822487131274205866
+    m_SerializedTextureGuid:
+      m_GuidLow: 8371804408044512002
+      m_GuidHigh: 14918033597391813497
+    m_Size: {x: 0.2, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: AR_P1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5685917581195213976
+      m_GuidHigh: 1985880230497788331
+    m_SerializedTextureGuid:
+      m_GuidLow: 7231024242503696174
+      m_GuidHigh: 4101331826564226120
+    m_Size: {x: 0.2, y: 0.15007688}
+    m_SpecifySize: 1
+    m_Name: AR_P2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5610317655816254865
+      m_GuidHigh: 2235126592456001672
+    m_SerializedTextureGuid:
+      m_GuidLow: 2653754611769556954
+      m_GuidHigh: 1363882011745265448
+    m_Size: {x: 0.2, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: AR_P3
+    m_Texture: {fileID: 0}
